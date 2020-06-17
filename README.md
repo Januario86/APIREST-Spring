@@ -9,6 +9,7 @@
 5. [MySQLWorkbench](https://www.mysql.com/products/workbench/)
 6. [FlyWay](https://flywaydb.org/)
 7. [Jakarta Persistence](https://jakarta.ee/specifications/persistence/2.2/)
+9. [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
 8. [Hibernate](https://hibernate.org/)
 
 
