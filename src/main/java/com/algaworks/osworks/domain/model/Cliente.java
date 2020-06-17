@@ -1,5 +1,7 @@
 package com.algaworks.osworks.domain.model;
 
+import javax.persistence.Column;
+import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
@@ -14,9 +16,8 @@ public class Cliente {
 	private String nome;
 	private String email;
 	
-	@column(name="fone")
+	@Column(name="fone")
 	private String telefone;
-	
 	
 		
 	public Long getId() {
