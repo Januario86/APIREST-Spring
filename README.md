@@ -1,6 +1,6 @@
 ## Implementando uma REST API com Spring
 
-> Requisitos Básicos
+> Requisitos Básicos e Documentações
 
 1. [Java Development Kit(JDK) - 1.8 ou superior](https://www.oracle.com/java/technologies/javase-downloads.html)
 2. [Postman](https://www.postman.com/) 
@@ -8,4 +8,8 @@
 4. [MySQL](https://www.mysql.com/downloads/)
 5. [MySQLWorkbench](https://www.mysql.com/products/workbench/)
 6. [FlyWay](https://flywaydb.org/)
+7. [Jakarta Persistence](https://jakarta.ee/specifications/persistence/2.2/)
+8. [Hibernate](https://hibernate.org/)
+
+
 
