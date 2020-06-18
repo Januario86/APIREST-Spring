@@ -1,4 +1,5 @@
 ## Implementando uma REST API com Spring
+## Persistência, Bean Validation e Exception Handler
 
 > Requisitos Básicos e Documentações
 
